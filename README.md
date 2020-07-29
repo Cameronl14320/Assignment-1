@@ -6,13 +6,13 @@ Developed with Unreal Engine 4
 You need to show that you can
 
     Control a character on screen - Done
-    Change score on screen
+    Change score on screen - Done (ish) score is dynamic, just needs a system to add points
     Create/destroy objects
     Move NPCs around
-    Play sounds
+    Play sounds - Done
     Restart a level
     Show a final screen
-    Create a settings menu
+    Create a settings menu - Done
     Create at lease one blueprint node in C++ 
 
 Your coding should be a github repository. The repository should include:
