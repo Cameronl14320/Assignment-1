@@ -70,3 +70,9 @@ Maybe one day Behaviour trees will be so complex that they'd even start creating
     
 # Experimentation Repository:
 https://github.com/Cameronl14320/licame---Assignment-1
+
+
+# Credits:
+Music from www.bensound.com
+Jump effect by dklon
+Hit and Menu Click sound effect from freesound.com
