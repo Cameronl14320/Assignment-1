@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=HIqWSrsZbVw
 # Game Description:
 This is a 2D platformer where you must stay alive as long as possible.
 There are enemies that will patrol and chase you if you're within their line of site.
+You can move on top of platforms to escape them but keep in mind, the platforms dissapear after 3 seconds!
 Overall, a very simple and intuitive game that has a very low difficulty.
 
 The hardest part to get working was the player itself. Coming into this course, I had no prior experience with Unreal so this was quite hard.
@@ -40,7 +41,9 @@ Overall, there are a lot of technologies and Unreal has the documentation and tu
 
 The hardest technology to implement would have to be the volume settings I have in my game.
 My initial thoughts when trying to implement this was how I was going to transfer the settings between menus, luckily there is an abundance of online resources available.
+
 I used this tutorial: https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1587490-audio-settings-menu
+
 This tutorial showed me the usage of Game Instances to keep settings constant throughout the entire game, which was something I would have never discovered on my own.
 I believe that this can also be used to store data or stats for a single player game that you might want to develop. 
 
@@ -64,3 +67,6 @@ Maybe one day Behaviour trees will be so complex that they'd even start creating
     Show a final screen - Done
     Create a settings menu - Done
     Create at least one blueprint node in C++ - Done
+    
+# Experimentation Repository:
+https://github.com/Cameronl14320/licame---Assignment-1
