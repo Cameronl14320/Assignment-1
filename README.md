@@ -9,6 +9,7 @@ https://www.youtube.com/watch?v=HIqWSrsZbVw
 # Game Description:
 This is a 2D platformer where you must stay alive as long as possible.
 There are enemies that will patrol and chase you if you're within their line of site.
+You can move on top of platforms to escape them but keep in mind, the platforms dissapear after 3 seconds!
 Overall, a very simple and intuitive game that has a very low difficulty.
 
 The hardest part to get working was the player itself. Coming into this course, I had no prior experience with Unreal so this was quite hard.
