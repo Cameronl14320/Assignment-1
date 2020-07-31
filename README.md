@@ -40,7 +40,9 @@ Overall, there are a lot of technologies and Unreal has the documentation and tu
 
 The hardest technology to implement would have to be the volume settings I have in my game.
 My initial thoughts when trying to implement this was how I was going to transfer the settings between menus, luckily there is an abundance of online resources available.
+
 I used this tutorial: https://forums.unrealengine.com/community/community-content-tools-and-tutorials/1587490-audio-settings-menu
+
 This tutorial showed me the usage of Game Instances to keep settings constant throughout the entire game, which was something I would have never discovered on my own.
 I believe that this can also be used to store data or stats for a single player game that you might want to develop. 
 
